@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c43-sar
 - 👀 I’m interested in WebDev stuff
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning JavaScript
 
 <!---
 c43-sar/c43-sar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
